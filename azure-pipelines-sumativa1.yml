@@ -22,7 +22,7 @@ variables:
   # AZURE DEVOPS / SERVICE CONNECTION
   # ============================================================
   # Debe coincidir EXACTAMENTE con el nombre de la Service Connection creada en Azure DevOps.
-  azureSubscription: 'SC-SUMATIV1-PIPELINES'
+  azureSubscription: 'SC-SUMATIVA1-PIPELINES'
 
   # ============================================================
   # REGIONES CANDIDATAS
