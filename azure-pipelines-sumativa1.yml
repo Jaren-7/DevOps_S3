@@ -76,7 +76,7 @@ variables:
   # ============================================================
   # Modifica este valor y realiza commit/push a main para
   # demostrar un nuevo despliegue.
-  indexContent: 'hola mundo - DevOps ISY2201 - despliegue automatizado desde Azure DevOps'
+  indexContent: 'Grupo 14 - DevOps ISY2201 - despliegue automatizado desde Azure DevOps'
 
 
 steps:
