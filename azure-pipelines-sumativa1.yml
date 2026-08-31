@@ -42,7 +42,7 @@ variables:
   # ============================================================
   # Si existe un Resource Group asignado por la asignatura, reemplazar este valor
   # por el nombre asignado y conservarlo sin modificaciones.
-  resourceGroupName: 'rg-sumativa1-pipelines'
+  resourceGroupName: 'GRUPO_SUMATIVA1'
   virtualNetworkName: 'vnet-sumativa1-pipelines'
   subnetName: 'subnet-sumativa1-pipelines'
   addressPrefix: '10.0.0.0/16'
